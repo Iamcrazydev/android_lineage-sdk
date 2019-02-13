@@ -65,7 +65,7 @@ public class ProfileManager {
 
     private Context mContext;
 
-    private static final String TAG = "ProfileManager";
+    private static final String TAG = "Manager";
 
     /**
      * <p>Broadcast Action: A new profile has been selected. This can be triggered by the user
